@@ -2,9 +2,9 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>https://1255980803.github.io/photos/index.html</loc>
+    <loc>https://1255980803.github.io/archives/d6b79b39.html</loc>
     
-    <lastmod>2022-07-18</lastmod>
+    <lastmod>2022-07-19</lastmod>
     
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
@@ -13,16 +13,16 @@
   <url>
     <loc>https://1255980803.github.io/archives/be82d226.html</loc>
     
-    <lastmod>2022-07-18</lastmod>
+    <lastmod>2022-07-19</lastmod>
     
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
-    <loc>https://1255980803.github.io/link/index.html</loc>
+    <loc>https://1255980803.github.io/Gallery/travel.html</loc>
     
-    <lastmod>2022-07-18</lastmod>
+    <lastmod>2022-07-19</lastmod>
     
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
@@ -31,7 +31,25 @@
   <url>
     <loc>https://1255980803.github.io/categories/index.html</loc>
     
-    <lastmod>2022-07-18</lastmod>
+    <lastmod>2022-07-19</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://1255980803.github.io/link/index.html</loc>
+    
+    <lastmod>2022-07-19</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://1255980803.github.io/photos/index.html</loc>
+    
+    <lastmod>2022-07-19</lastmod>
     
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
@@ -40,16 +58,7 @@
   <url>
     <loc>https://1255980803.github.io/tags/index.html</loc>
     
-    <lastmod>2022-07-18</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://1255980803.github.io/archives/4a17b156.html</loc>
-    
-    <lastmod>2022-07-18</lastmod>
+    <lastmod>2022-07-19</lastmod>
     
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
@@ -58,7 +67,7 @@
 
   <url>
     <loc>https://1255980803.github.io/</loc>
-    <lastmod>2022-07-18</lastmod>
+    <lastmod>2022-07-19</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
