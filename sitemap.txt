@@ -1,5 +1,5 @@
-https://1255980803.github.io/Gallery/travel.html
 https://1255980803.github.io/archives/7b25d017.html
+https://1255980803.github.io/Gallery/travel.html
 https://1255980803.github.io/archives/886bb30.html
 https://1255980803.github.io/archives/b04a945b.html
 https://1255980803.github.io/archives/d6b79b39.html
@@ -9,15 +9,15 @@ https://1255980803.github.io/photos/index.html
 https://1255980803.github.io/link/index.html
 https://1255980803.github.io/categories/index.html
 https://1255980803.github.io/
+https://1255980803.github.io/tags/redis/
+https://1255980803.github.io/tags/springSecurity/
+https://1255980803.github.io/tags/springBoot/
 https://1255980803.github.io/tags/hexo/
 https://1255980803.github.io/tags/butterfly/
 https://1255980803.github.io/tags/java/
 https://1255980803.github.io/tags/%E6%B3%A8%E8%A7%A3/
 https://1255980803.github.io/tags/ssm/
-https://1255980803.github.io/tags/springSecurity/
-https://1255980803.github.io/tags/springBoot/
-https://1255980803.github.io/tags/redis/
+https://1255980803.github.io/categories/redis/
+https://1255980803.github.io/categories/springSecurity/
 https://1255980803.github.io/categories/hexo/
 https://1255980803.github.io/categories/java/
-https://1255980803.github.io/categories/springSecurity/
-https://1255980803.github.io/categories/redis/
